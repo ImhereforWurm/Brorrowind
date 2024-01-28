@@ -1,0 +1,14 @@
+<properties>
+    <DaedricMace.wom>
+        <offsetToNull>
+            <NullLeftHand>
+                <xPos>0</xPos>
+                <yPos>0</yPos>
+                <zPos>0</zPos>
+                <xRot>180</xRot>
+                <yRot>180</yRot>
+                <zRot>0</zRot>
+            </NullLeftHand>
+        </offsetToNull>
+    </DaedricMace.wom>
+</properties>

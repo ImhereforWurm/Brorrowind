@@ -1,0 +1,102 @@
+
+armor.xml = player/armor.xml
+
+model.mod.nhobody.Brorrowind.DagothTPose = model/items/dagothurtpose/dagothwip.wom
+model.mod.nhobody.Brorrowind.sizetest1 = model/items/sizetest1/sizetest1.wom
+
+sound.mod.nhobody.Brorrowind.Cliffracer = model/creatures/Cliffracer.ogg
+sound.mod.nhobody.Brorrowind.Nwah = model/creatures/Nwah.ogg
+sound.mod.nhobody.Brorrowind.FortunateSon = model/creatures/FortunateSon.ogg
+
+model.mod.nhobody.Brorrowind.Cliffracer = model/creatures/Cliffracer/Cliffracer.wom
+model.mod.nhobody.Brorrowind.Guar = model/creatures/Guar/Guar.wom
+model.mod.nhobody.Brorrowind.Colladaracer = model/creatures/Colladaracer/Colladaracer.dae
+model.mod.nhobody.Brorrowind.Guarwomanimated = model/creatures/Guarwomanimated/Guarwomanimated.wom
+
+model.mod.nhobody.Brorrowind.DaedricWakazashi= model/items/Weapons/DaedricWakazashi/DaedricWakazashi.wom
+model.mod.nhobody.Brorrowind.DaedricWaraxe = model/items/Weapons/DaedricWaraxe/DaedricWaraxe.wom
+model.mod.nhobody.Brorrowind.DaedricBattleaxe = model/items/Weapons/DaedricBattleaxe/DaedricBattleaxe.wom
+model.mod.nhobody.Brorrowind.DaedricMace = model/items/Weapons/DaedricMace/DaedricMace.wom
+model.mod.nhobody.Brorrowind.DaedricWarhammer = model/items/Weapons/DaedricWarhammer/DaedricWarhammer.wom
+model.mod.nhobody.Brorrowind.DaedricStaff = model/items/Weapons/DaedricStaff/DaedricStaff.wom
+model.mod.nhobody.Brorrowind.DaedricKatana = model/items/Weapons/DaedricKatana/DaedricKatana.wom
+model.mod.nhobody.Brorrowind.DaedricLongsword = model/items/Weapons/DaedricLongsword/DaedricLongsword.wom
+model.mod.nhobody.Brorrowind.DaedricDaikatana = model/items/Weapons/DaedricDaikatana/DaedricDaikatana.wom
+model.mod.nhobody.Brorrowind.DaedricClaymore = model/items/Weapons/DaedricClaymore/DaedricClaymore.wom
+model.mod.nhobody.Brorrowind.DaedricSpear = model/items/Weapons/DaedricSpear/DaedricSpear.wom
+model.mod.nhobody.Brorrowind.DaedricScythe = model/items/Weapons/DaedricScythe/DaedricScythe.wom
+model.mod.nhobody.Brorrowind.DaedricSickle = model/items/Weapons/DaedricSickle/DaedricSickle.wom
+
+model.mod.nhobody.Brorrowind.DwemerBattleaxe = model/items/Weapons/DwemerBattleaxe/DwemerBattleaxe.wom
+model.mod.nhobody.Brorrowind.DwemerClaymore = model/items/Weapons/DwemerClaymore/DwemerClaymore.wom
+model.mod.nhobody.Brorrowind.DwemerHalberd = model/items/Weapons/DwemerHalberd/DwemerHalberd.wom
+model.mod.nhobody.Brorrowind.DwemerLongspear = model/items/Weapons/DwemerLongspear/DwemerLongspear.wom
+model.mod.nhobody.Brorrowind.DwemerMace = model/items/Weapons/DwemerMace/DwemerMace.wom
+model.mod.nhobody.Brorrowind.DwemerShortsword = model/items/Weapons/DwemerShortsword/DwemerShortsword.wom
+model.mod.nhobody.Brorrowind.DwemerWaraxe = model/items/Weapons/DwemerWaraxe/DwemerWaraxe.wom
+model.mod.nhobody.Brorrowind.DwemerWarhammer = model/items/Weapons/DwemerWarhammer/DwemerWarhammer.wom
+
+model.mod.nhobody.Brorrowind.GlassClaymore = model/items/Weapons/GlassClaymore/GlassClaymore.wom
+model.mod.nhobody.Brorrowind.GlassDagger = model/items/Weapons/GlassDagger/GlassDagger.wom
+model.mod.nhobody.Brorrowind.GlassHalberd = model/items/Weapons/GlassHalberd/GlassHalberd.wom
+model.mod.nhobody.Brorrowind.GlassLongsword = model/items/Weapons/GlassLongsword/GlassLongsword.wom
+model.mod.nhobody.Brorrowind.GlassStaff = model/items/Weapons/GlassStaff/GlassStaff.wom
+model.mod.nhobody.Brorrowind.GlassWaraxe = model/items/Weapons/GlassWaraxe/GlassWaraxe.wom
+
+
+model.mod.nhobody.Brorrowind.DwemerPuzzleBox = model/items/Misc/DwemerPuzzleBox/DwemerPuzzleBox.wom
+model.mod.nhobody.Brorrowind.ShardOfLorkhan = model/items/Misc/ShardOfLorkhan/ShardOfLorkhan.wom
+model.mod.nhobody.Brorrowind.Pillow = model/items/Misc/Pillow/Pillow.wom
+model.mod.nhobody.Brorrowind.DwemerMug = model/items/Misc/DwemerMug/DwemerMug.wom
+model.mod.nhobody.Brorrowind.DwemerGoblet = model/items/Misc/DwemerGoblet/DwemerGoblet.wom
+model.mod.nhobody.Brorrowind.DwemerGear = model/items/Misc/DwemerGear/DwemerGear.wom
+model.mod.nhobody.Brorrowind.DwemerCoherer = model/items/Misc/DwemerCoherer/DwemerCoherer.wom
+model.mod.nhobody.Brorrowind.DwemerScraps = model/items/Misc/DwemerScraps/DwemerScraps.wom
+model.mod.nhobody.Brorrowind.DwemerBarrel = model/items/Misc/DwemerBarrel/DwemerBarrel.wom
+model.mod.nhobody.Brorrowind.Chargen_Papers = model/items/Misc/Chargen_Papers/Chargen_Papers.wom
+model.mod.nhobody.Brorrowind.DragonTapestry = model/items/Misc/DragonTapestry/DragonTapestry.wom
+model.mod.nhobody.Brorrowind.ToddTapestry = model/items/Misc/ToddTapestry/ToddTapestry.wom
+
+model.mod.nhobody.Brorrowind.DarkBrotherhoodHelm = model/items/Armor/DarkBrotherhoodHelm/DarkBrotherhoodHelm.wom
+model.mod.nhobody.Brorrowind.DarkBrotherhoodBoots = model/items/Armor/DarkBrotherhoodBoots/DarkBrotherhoodBoots.wom
+
+model.mod.nhobody.Brorrowind.commonhousetall02 = model/building/commonhousetall02/commonhousetall02.wom
+model.mod.nhobody.Brorrowind.exdwrventer00 = model/building/exdwrventer00/exdwrventer00.wom
+model.mod.nhobody.Brorrowind.in_dwrv_corr2_04 = model/building/in_dwrv_corr2_04/in_dwrv_corr2_04.wom
+model.mod.nhobody.Brorrowind.in_dwrv_corr2_00 = model/building/in_dwrv_corr2_00/in_dwrv_corr2_00.wom
+model.mod.nhobody.Brorrowind.in_dwrv_corr3_01 = model/building/in_dwrv_corr3_01/in_dwrv_corr3_01.wom
+model.mod.nhobody.Brorrowind.ex_common_tower_thatch = model/building/ex_common_tower_thatch/ex_common_tower_thatch.wom
+model.mod.nhobody.Brorrowind.ex_nord_house_01 = model/building/ex_nord_house_01/ex_nord_house_01.wom
+model.mod.nhobody.Brorrowind.ex_nord_house_02 = model/building/ex_nord_house_02/ex_nord_house_02.wom
+model.mod.nhobody.Brorrowind.ex_nord_house_03 = model/building/ex_nord_house_03/ex_nord_house_03.wom
+model.mod.nhobody.Brorrowind.ex_de_shack_03 = model/building/ex_de_shack_03/ex_de_shack_03.wom
+model.mod.nhobody.Brorrowind.ex_de_shack_02 = model/building/ex_de_shack_02/ex_de_shack_02.wom
+model.mod.nhobody.Brorrowind.ex_dwrv_observ00 = model/building/ex_dwrv_observ00/ex_dwrv_observ00.wom
+model.mod.nhobody.Brorrowind.ex_velothi_entrance_02 = model/building/ex_velothi_entrance_02/ex_velothi_entrance_02.wom
+model.mod.nhobody.Brorrowind.CensusAndExcise = model/building/CensusAndExcise/CensusAndExcise.wom
+model.mod.nhobody.Brorrowind.Tradehouse = model/building/Tradehouse/Tradehouse.wom
+model.mod.nhobody.Brorrowind.Siltstrider = model/building/Siltstrider/Siltstrider.wom
+
+model.mod.nhobody.Brorrowind.HlaaluCouncil = model/building/HlaaluCouncil/HlaaluCouncil.wom
+model.mod.nhobody.Brorrowind.RedoranCouncil = model/building/RedoranCouncil/RedoranCouncil.wom
+model.mod.nhobody.Brorrowind.TelvaniCouncil = model/building/TelvaniCouncil/TelvaniCouncil.wom
+
+model.mod.nhobody.Brorrowind.Vivec_Canton = model/building/Vivec_Canton/Vivec_Canton.wom
+model.mod.nhobody.Brorrowind.Vivec_Canton2 = model/building/Vivec_Canton2/Vivec_Canton2.wom
+model.mod.nhobody.Brorrowind.Vivec_Temple_Base = model/building/Vivec_Temple_Base/Vivec_Temple_Base.wom
+model.mod.nhobody.Brorrowind.Vivec_Temple = model/building/Vivec_Temple/Vivec_Temple.wom
+model.mod.nhobody.Brorrowind.Vivec_HighFane = model/building/Vivec_HighFane/Vivec_HighFane.wom
+model.mod.nhobody.Brorrowind.Ministry_Of_Truth = model/building/Ministry_Of_Truth/Ministry_Of_Truth.wom
+
+model.mod.nhobody.Brorrowind.Argonian = model/races/Argonian/Argonian.wom
+model.mod.nhobody.Brorrowind.Argonian_Female = model/races/Argonian_Female/Argonian_Female.wom
+model.mod.nhobody.Brorrowind.Dunmer = model/races/Dunmer/Dunmer.wom
+model.mod.nhobody.Brorrowind.Dunmer_Female = model/races/Dunmer_Female/Dunmer_Female.wom
+model.mod.nhobody.Brorrowind.Altmer = model/races/Altmer/Altmer.wom
+model.mod.nhobody.Brorrowind.Altmer_Female = model/races/Altmer_Female/Altmer_Female.wom
+model.mod.nhobody.Brorrowind.Khajiit = model/races/Khajiit/Khajiit.wom
+model.mod.nhobody.Brorrowind.Khajiit_Female = model/races/Khajiit_Female/Khajiit_Female.wom
+model.mod.nhobody.Brorrowind.Orsimer = model/races/Orsimer/Orsimer.wom
+model.mod.nhobody.Brorrowind.Orsimer_Female = model/races/Orsimer_Female/Orsimer_Female.wom
+model.mod.nhobody.Brorrowind.Bosmer = model/races/Bosmer/Bosmer.wom
+model.mod.nhobody.Brorrowind.Bosmer_Female = model/races/Bosmer_Female/Bosmer_Female.wom
