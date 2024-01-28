@@ -7,7 +7,7 @@ An annon built and tested mod for Wurm Unlimited, inspired by Morrowind.
 This mod was built to add a few key features I wanted to add to the bi annual Wurm server hosted for anons. A combination of cosmetic and practical features, I've added toggles for everything in the *.config.
 
 ## Features
--**Bremasters Spice:** Item crafted with herbs, one time use for instantly finishing fermentation. Also provides a +10ql boost.
+-**Brewmaster Spice:** Item crafted with herbs, one time use for instantly finishing fermentation. Also provides a +10ql boost.
 
 -**Shard of Lorkhan:** Non crafted, intended as a reward from chests or events. Grants the user +1.0 to all characteristics.
 
