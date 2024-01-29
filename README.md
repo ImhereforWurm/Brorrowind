@@ -12,7 +12,7 @@ This mod was built to add a few key features I wanted to add to the bi-annual(lo
 -**Shard of Lorkhan:** Non crafted, intended as a reward from chests or events. Grants the user +1.0 to all characteristics.
 
 -**Mass Restriction Action:** GMs (power 5 only) can now use the #addprotections and #removeprotections commands to mass add/remove all restrictions to every tile, fence, and structure within a set radius. Now you can quickly set up an event area without having to worry about deeds!
-*example: '#protectfromplayers 3' will add restrictions to everything in a 3 tile radius. '#removeprotection 0 will remove restrictions from everything in the tile you are standing on.*
+*example: '#addprotections 3' will add restrictions to everything in a 3 tile radius. '#removeprotections 0 will remove restrictions from everything in the tile you are standing on.*
 
 -**Racial Masks:** Masks designed to look like Khajiit, Dunmer, and other races of Morrowind. Give your players that fresh off the boat experience.
 
