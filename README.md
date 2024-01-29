@@ -1,8 +1,8 @@
 # Brorrowind
-An annon built and tested mod for Wurm Unlimited, inspired by Morrowind.
+An anon built and tested mod for Wurm Unlimited, inspired by Morrowind.
 
 ## Overview
-**Warning: requires wyvrnmods as a dependancy**
+**Warning: requires wyvernmods as a dependency**
 
 This mod was built to add a few key features I wanted to add to the bi-annual(lol) Wurm server hosted for anons. A combination of cosmetic and practical features, I've added toggles for everything in the *.config.
 
@@ -18,12 +18,12 @@ This mod was built to add a few key features I wanted to add to the bi-annual(lo
 
 -**Custom Emotes/Sounds:** Includes a new action for all players to shout the classic "You N'wah!". Also includes a bonus emote for GMs to use with their wands.
 
--**Decorative Items:** Non craftable decoration items for GMs to place, such as dwemer scraps, a currious puzzle box, and a tapestry of the most handsome game developer ever.
+-**Decorative Items:** Non craft-able decoration items for GMs to place, such as dwemer scraps, a curious puzzle box, and a tapestry of the most handsome game developer ever.
 
--**Facade Items:** A series of decorative items designed to look like buildings, some of which are sized to allow building rooms inside. Recreate Vivec with the high fane and cantons, or Seyda Neen with the Census and Excise office.
+-**Facade Items:** A series of decorative items designed to look like buildings, some of which are sized to allow building rooms inside. Recreate Vivec with the High Fane and cantons, or Seyda Neen with the Census and Excise office.
 
 -**New Weapons:** Fully configurable with toggles for player crafting. Add Dwemer, Glass, and Daedric weapons to your server!
-*note: Daedric weapons currently require 100 souls from soulstealing to craft, and defaults in properties provide a +1/+2 damage bonus for one and two handed weapons.*
+*note: Daedric weapons currently require 100 souls from soulstealing to craft, and defaults in properties provide a +1/+2 damage bonus for one and two-handed weapons.*
 
 # Special Thanks
 First and foremost, a huge thanks to every anon that has ever touched any of the servers in our long history. I never would have gotten this far if it weren't for a fateful cart tour of decimated villages years ago. Thank you all, you are blessed and have blessed me.
