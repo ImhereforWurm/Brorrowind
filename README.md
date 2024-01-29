@@ -4,7 +4,7 @@ An annon built and tested mod for Wurm Unlimited, inspired by Morrowind.
 ## Overview
 **Warning: requires wyvrnmods as a dependancy**
 
-This mod was built to add a few key features I wanted to add to the bi annual Wurm server hosted for anons. A combination of cosmetic and practical features, I've added toggles for everything in the *.config.
+This mod was built to add a few key features I wanted to add to the bi-annual Wurm server hosted for anons. A combination of cosmetic and practical features, I've added toggles for everything in the *.config.
 
 ## Features
 -**Brewmaster Spice:** Item crafted with herbs, one time use for instantly finishing fermentation. Also provides a +10ql boost.
