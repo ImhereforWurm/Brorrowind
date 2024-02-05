@@ -32,6 +32,10 @@ public class Brorrowind implements WurmServerMod, ItemTemplatesCreatedListener, 
     public static boolean enableStructures = true;
     public static boolean enableDecorations = true;
     public static boolean enableDarkBrotherhoodHelm = true;
+
+    public static boolean enableBladedFist = true;
+    public static float bladedFistDamage, bladedFistSpeed, bladedFistCrit, bladedFistParry;
+    public static double bladedFistSkillpenalty;
     public static boolean enableDaedricWeapons = true;
     public static boolean enableDaedricWeaponsCrafting = true;
 
@@ -88,6 +92,13 @@ public class Brorrowind implements WurmServerMod, ItemTemplatesCreatedListener, 
         enableStructures = Boolean.parseBoolean(properties.getProperty("enableStructures",String.valueOf(enableStructures)));
         enableDecorations = Boolean.parseBoolean(properties.getProperty("enableDecorations",String.valueOf(enableDecorations)));
         enableDarkBrotherhoodHelm = Boolean.parseBoolean(properties.getProperty("enableDarkBrotherhoodHelm",String.valueOf(enableDarkBrotherhoodHelm)));
+
+        enableBladedFist = Boolean.parseBoolean(properties.getProperty("enableBladedFist",String.valueOf(enableBladedFist)));
+        bladedFistDamage = Float.parseFloat(properties.getProperty("bladedFistDamage",String.valueOf(3.8F)));
+        bladedFistSpeed = Float.parseFloat(properties.getProperty("bladedFistSpeed",String.valueOf(2.2F)));
+        bladedFistCrit = Float.parseFloat(properties.getProperty("bladedFistCrit",String.valueOf(0.002F)));
+        bladedFistParry = Float.parseFloat(properties.getProperty("bladedFistParry",String.valueOf(0.2F)));
+        bladedFistSkillpenalty = Double.parseDouble(properties.getProperty("bladedFistSkillpenalty", String.valueOf(0.5D)));
 
         enableDaedricWeapons = Boolean.parseBoolean(properties.getProperty("enableDaedricWeapons",String.valueOf(enableDaedricWeapons)));
         enableDaedricWeaponsCrafting = Boolean.parseBoolean(properties.getProperty("enableDaedricWeaponsCrafting",String.valueOf(enableDaedricWeaponsCrafting)));
@@ -332,6 +343,9 @@ public class Brorrowind implements WurmServerMod, ItemTemplatesCreatedListener, 
                 DarkBrotherhoodHelm.onItemTemplatesCreated();
                 //DarkBrotherhoodBoots.onItemTemplatesCreated();
                 //currently disabled, couldn't get the settings right for armor models 1/25/24
+            }
+            if(enableBladedFist){
+                BladedFist.onItemTemplatesCreated();
             }
             if(enableDaedricWeapons){
                 DaedricWakazashi.onItemTemplatesCreated();

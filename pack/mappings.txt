@@ -59,6 +59,7 @@ model.mod.nhobody.Brorrowind.ToddTapestry = model/items/Misc/ToddTapestry/ToddTa
 
 model.mod.nhobody.Brorrowind.DarkBrotherhoodHelm = model/items/Armor/DarkBrotherhoodHelm/DarkBrotherhoodHelm.wom
 model.mod.nhobody.Brorrowind.DarkBrotherhoodBoots = model/items/Armor/DarkBrotherhoodBoots/DarkBrotherhoodBoots.wom
+model.mod.nhobody.Brorrowind.BladedFist = model/items/Weapons/BladedFist/BladedFist.wom
 
 model.mod.nhobody.Brorrowind.commonhousetall02 = model/building/commonhousetall02/commonhousetall02.wom
 model.mod.nhobody.Brorrowind.exdwrventer00 = model/building/exdwrventer00/exdwrventer00.wom
